@@ -17,3 +17,8 @@ GUI for [shortgpt](https://github.com/rupeshs/shortgpt) project.
 Regenerate mocks
 
 `flutter pub run build_runner build`
+
+
+## Releases 
+
+Download releases from [itch.io](https://rupeshsreeraman.itch.io/shortgpt)
